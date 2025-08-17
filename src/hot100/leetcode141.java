@@ -6,7 +6,7 @@ public class leetcode141 {
 
     static class ListNode {
         int val;
-        leetcode160.ListNode next;
+        ListNode next;
 
         ListNode(int x) {
             val = x;

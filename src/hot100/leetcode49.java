@@ -27,7 +27,7 @@ public class leetcode49 {
             lists.add(entry.getValue());
         }
 
-        return lists
+        return lists;
     }
 
     private String get_key(int[] keymap) {

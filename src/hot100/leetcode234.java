@@ -6,7 +6,7 @@ import java.util.List;
 public class leetcode234 {
     static class ListNode {
         int val;
-        leetcode160.ListNode next;
+        ListNode next;
 
         ListNode(int x) {
             val = x;
